@@ -4,6 +4,20 @@ RUNNING STEPS-
 2) ./Practical_1
 
 
+Installation commands of g++ and openmp- 
+sudo apt-get install g++ 
+sudo apt-get install libomp.dev 
+1) DFS and BFS using parallel programming and OpenMP 
+Steps- 
+ Create file using command- 
+Cat > filename.cpp 
+ Write code in terminal and press ctrl D to save the code 
+ To compile file use command-  
+g++ -o filename –fopenmp filename.cpp 
+ Run file using command- 
+./filename
+
+
 ---------------------------------------------
 CUDA INSTALLATION
 ------------------------------------------
